@@ -1,0 +1,10 @@
+body {
+    background-image: url(../imagem/close-up-seeder-attached-tractor-field\ \(2\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}.grupo-formulario {
+    background-color: rgba(255, 255, 255, 0.9); 
+    padding: 20px;
+    border-radius: 10px; 
+}
